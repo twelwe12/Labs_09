@@ -1,0 +1,9 @@
+add_executable(Lab_9_1
+    Lab_9_1.cpp
+    var.cpp
+    dod.cpp
+    sum.cpp
+    var.h
+    dod.h
+    sum.h
+)
